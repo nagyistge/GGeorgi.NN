@@ -1,0 +1,22 @@
+net: "network.prototxt"
+
+test_iter: 1000
+test_interval: 200
+
+# The base learning rate, momentum and the weight decay of the network.
+base_lr: 0.002 # էս պետք ա խառը բաներ փորձել ասենք 0.1 0.01 0.001 0.0001 տենալ որն ա լավ: մնացածը երևի մնա
+momentum: 0.9
+weight_decay: 0
+# The learning rate policy
+lr_policy: "inv"
+gamma: 0.0002
+power: 0.9
+
+display: 1
+
+max_iter: 80000
+
+snapshot: 3000
+snapshot_prefix: "trainedModel/first"
+solver_mode: GPU
+

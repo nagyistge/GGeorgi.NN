@@ -1,0 +1,65 @@
+name: "MyFirstNet"
+# DATA LAYERS
+
+input: "X"
+input_dim: 1
+input_dim: 1
+input_dim: 1
+input_dim: 38
+
+layer {
+  name: "ip1"
+  type: "InnerProduct"
+  bottom: "X"
+  top: "ip1"
+  param {
+    lr_mult: 1
+  }
+  param {
+    lr_mult: 2
+  }
+  inner_product_param {
+    num_output: 100 # neyronneri qanak@ mejteghi shertum
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+
+layer {
+  name: "reluOnIp1"
+  type: "ReLU"
+  bottom: "ip1"
+  top: "ip1"
+}
+layer {
+  name: "ip2"
+  type: "InnerProduct"
+  bottom: "ip1"
+  top: "ip2"
+  param {
+    lr_mult: 1
+  }
+  param {
+    lr_mult: 2
+  }
+  inner_product_param {
+    num_output: 15 # en y-neri chapov
+    weight_filler {
+      type: "xavier"
+    }
+    bias_filler {
+      type: "constant"
+    }
+  }
+}
+layer {
+  name: "loss"
+  type: "EuclideanLoss"
+  bottom: "ip2"
+  bottom: "y"
+  top: "loss"
+}
