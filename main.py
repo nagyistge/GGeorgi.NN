@@ -4,7 +4,7 @@ import caffe
 print("start")
 
 #
-# SIZE = 38 # fixed size to all images
+SIZE = 38 # fixed size to all images
 # with open( 'train.txt', 'r' ) as T :
 #     lines = T.readlines()
 # X = np.zeros( (len(lines), 1, 1, SIZE), dtype='f4' )
@@ -29,7 +29,7 @@ print("start")
 #     L.write( 'train.h5' ) # list all h5 files you are going to use
 
 
-X_IN = np.zeros( 1, dtype='f4' )
+X_IN = np.zeros( (1,1,1,SIZE), dtype='f4' )
 input_str = "000000829,000487320,0001,000487321,000_1.80 1.9 0 0 0 0 0 0 0 0 0 0 0 0 0";
 
 sp = input_str.split('_')
@@ -41,6 +41,6 @@ X_IN  = x_variables
 print(X_IN)
 caffe.set_mode_gpu();
 net = caffe.Classifier("trainedModel/network.prototxt","trainedModel/first_iter_80000.caffemodel")
-scores = net.predict(X_IN)
+scores = net.predict(np.array(X_IN))
 
 print(scores)

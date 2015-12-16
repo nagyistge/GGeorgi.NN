@@ -28,7 +28,6 @@ layer {
     }
   }
 }
-
 layer {
   name: "reluOnIp1"
   type: "ReLU"
@@ -55,11 +54,4 @@ layer {
       type: "constant"
     }
   }
-}
-layer {
-  name: "loss"
-  type: "EuclideanLoss"
-  bottom: "ip2"
-  bottom: "y"
-  top: "loss"
 }
