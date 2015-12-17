@@ -19,7 +19,7 @@ layer {
     lr_mult: 2
   }
   inner_product_param {
-    num_output: 100 # neyronneri qanak@ mejteghi shertum
+    num_output: 100
     weight_filler {
       type: "xavier"
     }
@@ -46,7 +46,7 @@ layer {
     lr_mult: 2
   }
   inner_product_param {
-    num_output: 16 # en y-neri chapov
+    num_output: 16
     weight_filler {
       type: "xavier"
     }

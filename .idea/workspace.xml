@@ -1,7 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52840d00-dcfb-4825-a517-168b8090b217" name="Default" comment="" />
+    <list default="true" id="52840d00-dcfb-4825-a517-168b8090b217" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_102000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_102000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_105000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_105000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_108000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_108000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_111000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_111000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_114000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_114000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_117000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_117000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_12000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_12000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_120000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_120000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_123000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_123000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_126000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_126000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_129000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_129000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_132000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_132000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_135000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_135000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_138000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_138000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_141000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_141000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_144000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_144000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_147000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_147000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_15000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_15000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_150000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_150000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_153000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_153000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_156000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_156000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_159000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_159000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_162000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_162000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_165000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_165000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_168000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_168000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_171000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_171000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_174000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_174000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_177000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_177000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_18000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_18000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_180000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_180000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_183000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_183000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_186000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_186000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_189000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_189000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_192000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_192000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_195000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_195000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_198000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_198000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_201000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_201000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_204000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_204000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_207000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_207000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_21000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_21000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_210000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_210000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_213000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_213000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_216000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_216000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_219000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_219000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_222000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_222000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_225000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_225000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_228000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_228000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_231000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_231000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_234000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_234000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_237000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_237000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_24000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_24000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_240000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_240000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_243000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_243000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_246000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_246000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_249000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_249000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_252000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_252000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_255000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_255000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_258000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_258000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_261000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_261000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_264000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_264000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_267000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_267000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_27000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_27000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_270000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_270000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_273000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_273000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_276000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_276000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_279000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_279000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_282000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_282000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_285000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_285000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_288000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_288000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_291000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_291000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_294000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_294000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_297000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_297000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_3000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_3000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_30000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_30000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_300000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_300000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_33000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_33000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_36000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_36000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_39000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_39000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_42000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_42000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_45000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_45000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_48000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_48000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_51000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_51000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_54000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_54000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_57000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_57000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_6000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_6000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_60000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_60000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_63000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_63000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_66000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_66000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_69000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_69000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_72000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_72000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_75000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_75000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_78000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_78000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_80000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_80000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_81000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_81000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_84000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_84000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_87000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_87000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_9000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_9000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_90000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_90000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_93000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_93000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_96000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_96000.solverstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_99000.caffemodel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/trainedModel/first_iter_99000.solverstate" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/head.solver.prototxt" afterPath="$PROJECT_DIR$/head.solver.prototxt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/network.prototxt" afterPath="$PROJECT_DIR$/network.prototxt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predict.py" afterPath="$PROJECT_DIR$/predict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train.h5" afterPath="$PROJECT_DIR$/train.h5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train_test.h5" afterPath="$PROJECT_DIR$/train_test.h5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/network.prototxt" afterPath="$PROJECT_DIR$/trainedModel/network.prototxt" />
+    </list>
     <ignored path="NN.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,67 +233,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1450354812000" expanded="true" signature="48:122" placeholder="..." />
+                <marker date="1450356679000" expanded="true" signature="48:140" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.solver.prototxt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/head.solver.prototxt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="network.prototxt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network.prototxt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="network.prototxt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trainedModel/network.prototxt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="predict.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/predict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="train_test.h5" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train_test.h5">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -90,8 +250,87 @@
         <entry file="file://$PROJECT_DIR$/train_test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2700" column="170" selection-start-line="2700" selection-start-column="0" selection-end-line="2700" selection-end-column="170" />
+              <caret line="2706" column="63" selection-start-line="2706" selection-start-column="63" selection-end-line="2706" selection-end-column="63" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_h5_list.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_h5_list.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_h5_list_test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_h5_list_test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-31.666666">
+              <caret line="51818" column="163" selection-start-line="51818" selection-start-column="163" selection-end-line="51818" selection-end-column="163" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network.prototxt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainedModel/network.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.2222222">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.solver.prototxt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/head.solver.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network.prototxt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/network.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.70388347">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.h5" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.h5">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,17 +344,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/structure.py" />
         <option value="$PROJECT_DIR$/train.sh" />
         <option value="$PROJECT_DIR$/train.txt" />
-        <option value="$PROJECT_DIR$/head.solver.prototxt" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/network.prototxt" />
         <option value="$PROJECT_DIR$/trainedModel/network.prototxt" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/predict.py" />
+        <option value="$PROJECT_DIR$/head.solver.prototxt" />
+        <option value="$PROJECT_DIR$/network.prototxt" />
       </list>
     </option>
   </component>
@@ -125,7 +367,7 @@
     <option name="width" value="1682" />
     <option name="height" value="1073" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -158,10 +400,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="NN" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -203,7 +441,7 @@
       <recent name="$PROJECT_DIR$/trainedModel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NN-test">
+  <component name="RunManager" selected="Python.NN-learn">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,11 +622,12 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24970274" sideWeight="0.4947994" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968128" sideWeight="0.41319856" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968128" sideWeight="0.41617122" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2121514" sideWeight="0.49762186" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968128" sideWeight="0.49524376" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968128" sideWeight="0.5868014" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968128" sideWeight="0.58382875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24970274" sideWeight="0.50520056" order="-1" side_tool="true" content_ui="tabs" />
@@ -397,7 +636,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -460,22 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.11111">
-          <caret line="53108" column="163" selection-start-line="53108" selection-start-column="163" selection-end-line="53108" selection-end-column="163" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train.h5">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="10.597087">
-          <caret line="11" column="119" selection-start-line="11" selection-start-column="119" selection-end-line="11" selection-end-column="119" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/train.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.048543688">
@@ -495,23 +717,31 @@
     <entry file="file://$PROJECT_DIR$/train_test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2700" column="170" selection-start-line="2700" selection-start-column="0" selection-end-line="2700" selection-end-column="170" />
+          <caret line="2706" column="63" selection-start-line="2706" selection-start-column="63" selection-end-line="2706" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network.prototxt">
+    <entry file="file://$PROJECT_DIR$/train_h5_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainedModel/network.prototxt">
+    <entry file="file://$PROJECT_DIR$/train_h5_list_test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.666666">
+          <caret line="51818" column="163" selection-start-line="51818" selection-start-column="163" selection-end-line="51818" selection-end-column="163" />
           <folding />
         </state>
       </provider>
@@ -519,9 +749,39 @@
     <entry file="file://$PROJECT_DIR$/predict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainedModel/network.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2222222">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.h5">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.597087">
+          <caret line="11" column="119" selection-start-line="11" selection-start-column="119" selection-end-line="11" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1450356679000" expanded="true" signature="48:140" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -529,19 +789,16 @@
     <entry file="file://$PROJECT_DIR$/head.solver.prototxt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/network.prototxt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1450354812000" expanded="true" signature="48:122" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.70388347">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -4,10 +4,14 @@ print("start")
 
 #
 SIZE = 131
+OUTPUT_SIZE = 16
+
 with open( 'train.txt', 'r' ) as T :
     lines = T.readlines()
+
 X = np.zeros( (len(lines), 1, 1, SIZE), dtype='f4' )
-y = np.zeros( (len(lines), 16), dtype='f4' )
+y = np.zeros( (len(lines), OUTPUT_SIZE), dtype='f4' )
+
 for i,l in enumerate(lines):
     sp = l.split('_')
     x_variables = []
@@ -20,6 +24,7 @@ for i,l in enumerate(lines):
     for (k,item_k) in enumerate(outcomes):
        y_variables.append(float(str(item_k).split("/n")[0])/500)
     y[i] = y_variables
+
 with h5py.File('train.h5','w') as H:
     H.create_dataset( 'X', data=X )
     H.create_dataset( 'y', data=y )
@@ -29,8 +34,10 @@ with open('train_h5_list.txt','w') as L:
 
 with open( 'train_test.txt', 'r' ) as T :
     lines = T.readlines()
+
 X = np.zeros( (len(lines), 1, 1, SIZE), dtype='f4' )
-y = np.zeros( (len(lines), 16), dtype='f4' )
+y = np.zeros( (len(lines), OUTPUT_SIZE), dtype='f4' )
+
 for i,l in enumerate(lines):
     sp = l.split('_')
     x_variables = []
@@ -43,6 +50,7 @@ for i,l in enumerate(lines):
     for (k,item_k) in enumerate(outcomes):
        y_variables.append(float(str(item_k).split("/n")[0])/500)
     y[i] = y_variables
+
 with h5py.File('train_test.h5','w') as H:
     H.create_dataset( 'X', data=X )
     H.create_dataset( 'y', data=y )
