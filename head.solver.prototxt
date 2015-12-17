@@ -14,7 +14,7 @@ power: 0.9
 
 display: 1
 
-max_iter: 80000
+max_iter: 300000
 
 snapshot: 3000
 snapshot_prefix: "trainedModel/first"
