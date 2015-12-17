@@ -9,7 +9,7 @@ OUTPUT_SIZE = 16
 with open( 'train.txt', 'r' ) as T :
     lines = T.readlines()
 
-X = np.zeros( (len(lines), 1, 1, SIZE), dtype='f4' )
+X = np.zeros( (len(lines), SIZE), dtype='f4' )
 y = np.zeros( (len(lines), OUTPUT_SIZE), dtype='f4' )
 
 for i,l in enumerate(lines):
@@ -35,7 +35,7 @@ with open('train_h5_list.txt','w') as L:
 with open( 'train_test.txt', 'r' ) as T :
     lines = T.readlines()
 
-X = np.zeros( (len(lines), 1, 1, SIZE), dtype='f4' )
+X = np.zeros( (len(lines), SIZE), dtype='f4' )
 y = np.zeros( (len(lines), OUTPUT_SIZE), dtype='f4' )
 
 for i,l in enumerate(lines):

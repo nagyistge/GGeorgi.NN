@@ -8,6 +8,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_15000.solverstate" afterPath="$PROJECT_DIR$/trainedModel/first_iter_15000.solverstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_18000.caffemodel" afterPath="$PROJECT_DIR$/trainedModel/first_iter_18000.caffemodel" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_18000.solverstate" afterPath="$PROJECT_DIR$/trainedModel/first_iter_18000.solverstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_20000.caffemodel" afterPath="$PROJECT_DIR$/trainedModel/first_iter_20000.caffemodel" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_20000.solverstate" afterPath="$PROJECT_DIR$/trainedModel/first_iter_20000.solverstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_3000.caffemodel" afterPath="$PROJECT_DIR$/trainedModel/first_iter_3000.caffemodel" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_3000.solverstate" afterPath="$PROJECT_DIR$/trainedModel/first_iter_3000.solverstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_6000.caffemodel" afterPath="$PROJECT_DIR$/trainedModel/first_iter_6000.caffemodel" />
@@ -15,7 +17,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_9000.caffemodel" afterPath="$PROJECT_DIR$/trainedModel/first_iter_9000.caffemodel" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainedModel/first_iter_9000.solverstate" afterPath="$PROJECT_DIR$/trainedModel/first_iter_9000.solverstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predict.py" afterPath="$PROJECT_DIR$/predict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train.h5" afterPath="$PROJECT_DIR$/train.h5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train_test.h5" afterPath="$PROJECT_DIR$/train_test.h5" />
     </list>
     <ignored path="NN.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,14 +41,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.11627907">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1450356679000" expanded="true" signature="48:140" placeholder="..." />
+                <marker date="1450362928000" expanded="true" signature="48:140" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -53,27 +58,7 @@
         <entry file="file://$PROJECT_DIR$/train_test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2706" column="63" selection-start-line="2706" selection-start-column="63" selection-end-line="2706" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="train_h5_list.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train_h5_list.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="train_h5_list_test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train_h5_list_test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="2706" column="131" selection-start-line="2706" selection-start-column="0" selection-end-line="2706" selection-end-column="131" />
               <folding />
             </state>
           </provider>
@@ -126,14 +111,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="predict.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="predict.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4651163">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="io.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python2.7/site-packages/caffe/io.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.74074">
+              <caret line="300" column="27" selection-start-line="300" selection-start-column="27" selection-end-line="300" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,10 +152,10 @@
         <option value="$PROJECT_DIR$/train.sh" />
         <option value="$PROJECT_DIR$/train.txt" />
         <option value="$PROJECT_DIR$/trainedModel/network.prototxt" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/head.solver.prototxt" />
         <option value="$PROJECT_DIR$/network.prototxt" />
         <option value="$PROJECT_DIR$/predict.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -436,7 +431,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2121514" sideWeight="0.49762186" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968128" sideWeight="0.58382875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968128" sideWeight="0.58382875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24970274" sideWeight="0.4947994" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968128" sideWeight="0.49524376" order="1" side_tool="false" content_ui="tabs" />
@@ -529,14 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train_test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2706" column="63" selection-start-line="2706" selection-start-column="63" selection-end-line="2706" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/train_h5_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -553,22 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.666666">
-          <caret line="51818" column="163" selection-start-line="51818" selection-start-column="163" selection-end-line="51818" selection-end-column="163" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trainedModel/network.prototxt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2222222">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/train.h5">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="10.597087">
@@ -578,17 +549,6 @@
       </provider>
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1450356679000" expanded="true" signature="48:140" placeholder="..." />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/head.solver.prototxt">
@@ -607,12 +567,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.666666">
+          <caret line="51818" column="163" selection-start-line="51818" selection-start-column="163" selection-end-line="51818" selection-end-column="163" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2706" column="131" selection-start-line="2706" selection-start-column="0" selection-end-line="2706" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainedModel/network.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2222222">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/caffe/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.74074">
+          <caret line="300" column="27" selection-start-line="300" selection-start-column="27" selection-end-line="300" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4651163">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11627907">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1450362928000" expanded="true" signature="48:140" placeholder="..." />
           </folding>
         </state>
       </provider>
