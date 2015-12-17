@@ -15,7 +15,7 @@ X_IN  = x_variables
 print(X_IN)
 
 caffe.set_mode_gpu();
-net = caffe.Classifier("trainedModel/network.prototxt","trainedModel/first_iter_80000.caffemodel")
+net = caffe.Classifier("trainedModel/network.prototxt","trainedModel/first_iter_300000.caffemodel")
 scores = net.predict(np.array(X_IN))
 
 print(scores)
